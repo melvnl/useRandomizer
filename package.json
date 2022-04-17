@@ -1,0 +1,25 @@
+{
+  "name": "userandomizer",
+  "version": "1.0.0",
+  "description": "react custom hook to generate random character/number/both combined",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melvnl/useRandomizer.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "melvnl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melvnl/useRandomizer/issues"
+  },
+  "homepage": "https://github.com/melvnl/useRandomizer#readme",
+  "dependencies": {
+    "react": "^18.0.0"
+  }
+}
